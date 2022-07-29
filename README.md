@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CameronTrotter
-- 👀 I’m interested in front end development and website design
+- 👀 I’m interested in full stack development focusing on accessability 
 - 🌱 I’m currently learning HTML, CSS, Javascript, Python 
 - 💞️ I’m looking to collaborate on any projects that will test my skill and push my bounderies as a developer
 - 📫 How to reach me ...
